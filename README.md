@@ -1,2 +1,3 @@
-# Portfólio-Robótica
-Estou estudando engenharia de computação e robótica para construir um exoesqueleto
+# Portfólio-Programação
+# 👋 Olá, eu sou Rafael
+🚀 Explorador da tecnologia — de programação a computação quântica.
